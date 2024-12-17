@@ -1,2 +1,2 @@
-# MY-WEBSITE
-It is my first website.
+# MY-REPO
+It is my first repo.
