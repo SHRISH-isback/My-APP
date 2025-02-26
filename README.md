@@ -1,2 +1,2 @@
 # MY-REPO
-It is my first repo.
+It is the first App developed by me.
